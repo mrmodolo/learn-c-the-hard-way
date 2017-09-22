@@ -1,7 +1,7 @@
 Experimentando com UNICODE
 ==========================
 
-Usando iconv para e hexdump
+Usando iconv e hexdump
 ---------------------------
 
 ```
