@@ -45,3 +45,7 @@ https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
 C Standard Library header files
 ===============================
 http://en.cppreference.com/w/c/header
+
+C Standard Library Reference Tutorial
+=====================================
+https://www.tutorialspoint.com/c_standard_library/
